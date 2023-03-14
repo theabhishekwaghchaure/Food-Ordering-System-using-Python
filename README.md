@@ -7,7 +7,7 @@ This Food Ordering System is a project that can order some food through the digi
 The project was built in a console application, the user can openly access the system without providing login information. You can navigate the full menu by entering the corresponding keys display in the menu list. The user can take the order of the customer after selecting in the menu, then he/she can give the total price for the ordered item of the customer. The system will auto calculate the ordered item including the quantity of the item and also the available discount. This system can help those who have a catering business or any business that requires some automated ordering. When you use this system it can efficiently automate your work and make a faster transaction for customers in no time. The Food Ordering System is a simple project that can make you understand the basic way of coding in Python.
 
 ## Features
-### (M) Main Menu:
+### (M) Main :
 In this menu, you can see the Order Payment and Exit Options.
 
 ### (O) Order Menu:
