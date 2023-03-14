@@ -31,6 +31,6 @@ For this menu, you can receive the payment of the customer for the total ordered
 ![5](https://user-images.githubusercontent.com/86470947/145719787-154969f5-86ec-4271-9883-3ece434a66fb.jpg)
 ![6](https://user-images.githubusercontent.com/86470947/145719793-675d677e-bb98-47aa-a71c-d8325b8cad54.jpg)
 
-The Food Ordering System was developed using the Python programming language.
+The Food Ordering System was developed using the Python programming language
 
 Enjoy System !!!
